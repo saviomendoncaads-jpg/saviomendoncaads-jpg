@@ -14,6 +14,8 @@
 
 Engenheiro de software focado em desenvolvimento mobile e backends escaláveis. Tenho experiência construindo produtos do zero — da arquitetura ao deploy — com atenção a performance, experiência do usuário e qualidade de código.
 
+Trago criatividade para modelagem de processos e regras de negócio, traduzindo necessidades reais em soluções técnicas que fazem sentido para o produto.
+
 ---
 
 ### Stack
