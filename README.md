@@ -1,7 +1,7 @@
 <h1 align="center">Sávio Mendonça</h1>
 
 <p align="center">
-  Software Engineer · Mobile & Backend
+  Food Engineer · Mobile & Backend
 </p>
 
 <p align="center">
