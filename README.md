@@ -24,6 +24,9 @@ Engenheiro de software focado em desenvolvimento mobile e backends escaláveis. 
 **Backend**
 `Node.js` `Express` `Prisma` `SQL Server` `Socket.io`
 
+**Banco de dados**
+`SQL Server` `Prisma ORM` `T-SQL`
+
 **Estado & dados**
 `Zustand` `REST` `WebSocket`
 
