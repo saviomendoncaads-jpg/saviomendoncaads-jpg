@@ -10,14 +10,6 @@
 
 ---
 
-### Sobre
-
-Engenheiro de Alimentos atuo também em desenvolvimento mobile e backends escaláveis. Desenvolvo como hobby construindo produtos do zero da arquitetura ao deploy com atenção a performance, experiência do usuário e qualidade de código.
-
-Trazendo criatividade para modelagem de processos e regras de negócio, traduzindo necessidades reais em soluções técnicas que fazem sentido para o produto.
-
----
-
 ### Stack
 
 **Mobile**
